@@ -1,0 +1,11 @@
+<%= content_for :head do %>
+  <title>Haveランキング - monolist</title>
+  <meta name="description" content="持っている人が多いアイテム トップ10">
+<% end %>
+
+<div class="container">
+  <div class="container-inner inner-sm clearfix">
+    <h1 style="text-align: center">Haveランキング</h1>
+    <%= render 'items/ranking_list', items: @items %>
+  </div>
+</div>

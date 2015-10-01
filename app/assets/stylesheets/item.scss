@@ -164,3 +164,25 @@
     }
   }
 }
+
+.ranking-body {
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 20px 0;
+  font-weight: bold;
+  font-size: 32px;
+  display: table;
+  .title {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+  }
+  .image {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+    display: table;
+  }
+}

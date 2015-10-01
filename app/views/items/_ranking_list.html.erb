@@ -1,0 +1,21 @@
+<div class="ranking-body">
+    <ol>
+        <% items.each do |item| %>
+            <li>  
+                <div class="title">
+                    <p><strong><%= item.title %></strong></p>
+                    <p>[<strong><%= item.want_users.count %></strong> want] [<strong><%= item.have_users.count %></strong> have]</p>
+                </div>
+                <div class="image">
+                    <div class="img-wrap">
+                        <% if item.large_image.nil? %>
+                            <%= link_to(image_tag("no-image.png" , {alt: item.title}), item.detail_page_url) %>
+                        <% else %>
+                            <%= link_to(image_tag(item.large_image , {alt: item.title}), item.detail_page_url) %>
+                        <% end %>
+                    </div>
+                </div>
+            </li>
+        <% end %>
+    </ol>
+</div>

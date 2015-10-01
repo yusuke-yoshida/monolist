@@ -1,0 +1,140 @@
+=> [[32m#<Item:0x00000004d60340[0m
+  id: [1;34m1[0m,
+  asin: [31m[1;31m"[0m[31m4897979749[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31m非エンジニアのためのプログラミング講座[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E9%9D%9E%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%AC%9B%E5%BA%A7-%E5%90%89%E5%B2%A1%E7%9B%B4%E4%BA%BA/dp/4897979749%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4897979749[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51jisBtMm9L._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51jisBtMm9L._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51jisBtMm9L.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d60188[0m
+  id: [1;34m6[0m,
+  asin: [31m[1;31m"[0m[31m4873113946[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mプログラミング言語 Ruby[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/4873113946/dp/4873113946%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873113946[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/41CGDEMgyoL._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/41CGDEMgyoL._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/41CGDEMgyoL.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d60020[0m
+  id: [1;34m14[0m,
+  asin: [31m[1;31m"[0m[31mB00MB6GO7O[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mUIまで手の回らないプログラマのためのBootstrap 3実用ガイド[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/UI%E3%81%BE%E3%81%A7%E6%89%8B%E3%81%AE%E5%9B%9E%E3%82%89%E3%81%AA%E3%81%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEBootstrap-3%E5%AE%9F%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E6%BE%A4-%E6%96%87%E5%AD%9D-ebook/dp/B00MB6GO7O%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MB6GO7O[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61roBRrUw3L._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61roBRrUw3L._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61roBRrUw3L.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d57f38[0m
+  id: [1;34m16[0m,
+  asin: [31m[1;31m"[0m[31m4883379647[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mHTML5&amp;CSS3デザインブック (ステップバイステップ形式でマスターできる)[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/HTML5-CSS3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E5%BD%A2%E5%BC%8F%E3%81%A7%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%A8%E3%83%93%E3%82%B9%E3%82%B3%E3%83%A0/dp/4883379647%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4883379647[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61pynA4XF1L._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61pynA4XF1L._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61pynA4XF1L.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d57dd0[0m
+  id: [1;34m18[0m,
+  asin: [31m[1;31m"[0m[31m4844362674[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mすべての人に知っておいてほしい スタイルシートデザインの基本原則[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E4%BA%BA%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%84%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%89%87-%E7%A7%8B%E8%91%89%E7%A7%80%E6%A8%B9/dp/4844362674%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4844362674[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61u1PBy9jvL._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61u1PBy9jvL._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/61u1PBy9jvL.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d57c68[0m
+  id: [1;34m19[0m,
+  asin: [31m[1;31m"[0m[31m4774162590[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31m世界一わかりやすいPhotoshop 操作とデザインの教科書 (世界一わかりやすい教科書)[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84Photoshop-%E6%93%8D%E4%BD%9C%E3%81%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E6%95%99%E7%A7%91%E6%9B%B8-%E6%9F%98%E6%A4%8D-%E3%83%92%E3%83%AD%E3%83%9D%E3%83%B3/dp/4774162590%3FSubscriptionId%3DAKIAJJPMTRA4AHJOG5DQ%26tag%3Dtechacademy%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774162590[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/514Qg1jvDiL._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/514Qg1jvDiL._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/514Qg1jvDiL.jpg[1;31m"[0m[31m[0m,
+  raw_info: {},
+  created_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mSun[0m, [1;34m20[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m14[0m:[1;34m55[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d57b00[0m
+  id: [1;34m30[0m,
+  asin: [31m[1;31m"[0m[31m4774164100[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mRuby on Rails 4 アプリケーションプログラミング[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/Ruby-Rails-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%B1%B1%E7%94%B0-%E7%A5%A5%E5%AF%9B/dp/4774164100%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774164100[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51lycs3O%2BrL.jpg[1;31m"[0m[31m[0m,
+  raw_info:
+   {[31m[1;31m"[0m[31mASIN[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m4774164100[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mDetailPageURL[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/Ruby-Rails-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%B1%B1%E7%94%B0-%E7%A5%A5%E5%AF%9B/dp/4774164100%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774164100[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mItemLinks[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<ItemLink><Description>Add To Wishlist</Description><URL>http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3D4774164100%26SubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4774164100</URL></ItemLink><ItemLink><Description>Tell A Friend</Description><URL>http://www.amazon.co.jp/gp/pdp/taf/4774164100%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4774164100</URL></ItemLink><ItemLink><Description>All Customer Reviews</Description><URL>http://www.amazon.co.jp/review/product/4774164100%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4774164100</URL></ItemLink><ItemLink><Description>All Offers</Description><URL>http://www.amazon.co.jp/gp/offer-listing/4774164100%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4774164100</URL></ItemLink>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mSalesRank[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m27985[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mSmallImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>56</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mMediumImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL160_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>160</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>120</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mLargeImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>500</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>376</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mImageSets[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<ImageSet Category=[1;35m\"[0m[31mvariant[1;35m\"[0m[31m><SwatchImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL._SL30_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>30</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>23</Width></SwatchImage><SmallImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>56</Width></SmallImage><ThumbnailImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>56</Width></ThumbnailImage><TinyImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL._SL110_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>110</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>83</Width></TinyImage><MediumImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL._SL160_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>160</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>120</Width></MediumImage><LargeImage><URL>http://ecx.images-amazon.com/images/I/41kzZpVFPdL.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>500</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>376</Width></LargeImage></ImageSet><ImageSet Category=[1;35m\"[0m[31mprimary[1;35m\"[0m[31m><SwatchImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL30_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>30</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>23</Width></SwatchImage><SmallImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>56</Width></SmallImage><ThumbnailImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>56</Width></ThumbnailImage><TinyImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL110_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>110</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>83</Width></TinyImage><MediumImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL._SL160_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>160</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>120</Width></MediumImage><LargeImage><URL>http://ecx.images-amazon.com/images/I/51lycs3O%2BrL.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>500</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>376</Width></LargeImage></ImageSet>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mItemAttributes[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<Author>山田 祥寛</Author><Binding>大型本</Binding><EAN>9784774164106</EAN><EANList><EANListElement>9784774164106</EANListElement></EANList><IsAdultProduct>0</IsAdultProduct><ISBN>4774164100</ISBN><IsEligibleForTradeIn>1</IsEligibleForTradeIn><Label>技術評論社</Label><Languages><Language><Name>日本語</Name><Type>Published</Type></Language></Languages><ListPrice><Amount>3780</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 3,780</FormattedPrice></ListPrice><Manufacturer>技術評論社</Manufacturer><NumberOfPages>544</NumberOfPages><PackageDimensions><Height Units=[1;35m\"[0m[31mhundredths-inches[1;35m\"[0m[31m>126</Height><Length Units=[1;35m\"[0m[31mhundredths-inches[1;35m\"[0m[31m>898</Length><Weight Units=[1;35m\"[0m[31mhundredths-pounds[1;35m\"[0m[31m>212</Weight><Width Units=[1;35m\"[0m[31mhundredths-inches[1;35m\"[0m[31m>724</Width></PackageDimensions><ProductGroup>Book</ProductGroup><ProductTypeName>ABIS_BOOK</ProductTypeName><PublicationDate>2014-04-11</PublicationDate><Publisher>技術評論社</Publisher><Studio>技術評論社</Studio><Title>Ruby on Rails 4 アプリケーションプログラミング</Title>[1;35m\n[0m[31m<TradeInValue><Amount>1220</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 1,220</FormattedPrice></TradeInValue>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mOfferSummary[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<LowestNewPrice><Amount>3780</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 3,780</FormattedPrice></LowestNewPrice><LowestUsedPrice><Amount>3495</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 3,495</FormattedPrice></LowestUsedPrice><TotalNew>1</TotalNew><TotalUsed>4</TotalUsed><TotalCollectible>0</TotalCollectible><TotalRefurbished>0</TotalRefurbished>[1;31m"[0m[31m[0m},
+  created_at: [1;34;4mMon[0m, [1;34m28[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m11[0m:[1;34m48[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mMon[0m, [1;34m28[0m [1;34;4mSep[0m [1;34m2015[0m [1;34m11[0m:[1;34m48[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Item:0x00000004d57998[0m
+  id: [1;34m33[0m,
+  asin: [31m[1;31m"[0m[31m479814245X[1;31m"[0m[31m[0m,
+  title: [31m[1;31m"[0m[31mプログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問[1;31m"[0m[31m[0m,
+  description: [1;36mnil[0m,
+  detail_page_url:
+   [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E8%84%B3%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E6%95%B0%E5%AD%A6%E3%83%91%E3%82%BA%E3%83%AB-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E3%81%8C%E6%9B%B8%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B70%E5%95%8F-%E5%A2%97%E4%BA%95-%E6%95%8F%E5%85%8B/dp/479814245X%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479814245X[1;31m"[0m[31m[0m,
+  small_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL75_.jpg[1;31m"[0m[31m[0m,
+  medium_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL160_.jpg[1;31m"[0m[31m[0m,
+  large_image: [31m[1;31m"[0m[31mhttp://ecx.images-amazon.com/images/I/51PtqXYKLgL.jpg[1;31m"[0m[31m[0m,
+  raw_info:
+   {[31m[1;31m"[0m[31mASIN[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m479814245X[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mDetailPageURL[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E8%84%B3%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E6%95%B0%E5%AD%A6%E3%83%91%E3%82%BA%E3%83%AB-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%89%E3%81%8C%E6%9B%B8%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B70%E5%95%8F-%E5%A2%97%E4%BA%95-%E6%95%8F%E5%85%8B/dp/479814245X%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479814245X[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mItemLinks[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<ItemLink><Description>Add To Wishlist</Description><URL>http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3D479814245X%26SubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D479814245X</URL></ItemLink><ItemLink><Description>Tell A Friend</Description><URL>http://www.amazon.co.jp/gp/pdp/taf/479814245X%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D479814245X</URL></ItemLink><ItemLink><Description>All Customer Reviews</Description><URL>http://www.amazon.co.jp/review/product/479814245X%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D479814245X</URL></ItemLink><ItemLink><Description>All Offers</Description><URL>http://www.amazon.co.jp/gp/offer-listing/479814245X%3FSubscriptionId%3DAKIAIZQARRNWI45KODKQ%26tag%3Duskysd1217-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D479814245X</URL></ItemLink>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mSalesRank[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m3208[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mSmallImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>53</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mMediumImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL160_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>160</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>113</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mLargeImage[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>500</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>352</Width>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mImageSets[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<ImageSet Category=[1;35m\"[0m[31mprimary[1;35m\"[0m[31m><SwatchImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL30_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>30</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>21</Width></SwatchImage><SmallImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>53</Width></SmallImage><ThumbnailImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL75_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>75</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>53</Width></ThumbnailImage><TinyImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL110_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>110</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>77</Width></TinyImage><MediumImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL._SL160_.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>160</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>113</Width></MediumImage><LargeImage><URL>http://ecx.images-amazon.com/images/I/51PtqXYKLgL.jpg</URL><Height Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>500</Height><Width Units=[1;35m\"[0m[31mpixels[1;35m\"[0m[31m>352</Width></LargeImage></ImageSet>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mItemAttributes[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<Author>増井 敏克</Author><Binding>単行本（ソフトカバー）</Binding><EAN>9784798142456</EAN><EANList><EANListElement>9784798142456</EANListElement></EANList><IsAdultProduct>0</IsAdultProduct><ISBN>479814245X</ISBN><Label>翔泳社</Label><Languages><Language><Name>日本語</Name><Type>Published</Type></Language></Languages><ListPrice><Amount>2786</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 2,786</FormattedPrice></ListPrice><Manufacturer>翔泳社</Manufacturer><NumberOfPages>320</NumberOfPages><ProductGroup>Book</ProductGroup><ProductTypeName>ABIS_BOOK</ProductTypeName><PublicationDate>2015-10-14</PublicationDate><Publisher>翔泳社</Publisher><Studio>翔泳社</Studio><Title>プログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問</Title>[1;31m"[0m[31m[0m,
+    [31m[1;31m"[0m[31mOfferSummary[1;31m"[0m[31m[0m=>
+     [31m[1;31m"[0m[31m<LowestNewPrice><Amount>2786</Amount><CurrencyCode>JPY</CurrencyCode><FormattedPrice>￥ 2,786</FormattedPrice></LowestNewPrice><TotalNew>1</TotalNew><TotalUsed>0</TotalUsed><TotalCollectible>0</TotalCollectible><TotalRefurbished>0</TotalRefurbished>[1;31m"[0m[31m[0m},
+  created_at: [1;34;4mThu[0m, [1;34m01[0m [1;34;4mOct[0m [1;34m2015[0m [1;34m10[0m:[1;34m54[0m:[1;34m39[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m01[0m [1;34;4mOct[0m [1;34m2015[0m [1;34m10[0m:[1;34m54[0m:[1;34m39[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
